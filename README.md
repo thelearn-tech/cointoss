@@ -27,7 +27,7 @@ So *chmod +x MoveToss.sh*
 **Warning**
 
 Running *MoveToss.sh* will move *toss.py* to home directory of 
-Termux and will remove cointoss.
+Termux and will remove cointoss directory.
 
 # warning
  If you copy don't forget to give me credit
